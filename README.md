@@ -13,9 +13,21 @@ Life expectancy is a critical measure of population health and societal well-bei
 
 The project emphasizes both **predictive performance** and **model interpretability**, using statistical and visualization-based methods to identify the most influential features and to enhance the transparency of the predictive models.
 
+<div align="center">
 <img width="600" alt="4" src="https://github.com/user-attachments/assets/33e26046-d06d-4aa1-9325-94b1acb17658" />
-<img width="600" height="1351" alt="2" src="https://github.com/user-attachments/assets/041f9ee6-0a3a-4b07-94ae-3833928235c2" />
+*Figure 1: Decision Tree classification process (first three levels)*
+</div>
+
+<div align="center">
+<img width="600" alt="2" src="https://github.com/user-attachments/assets/041f9ee6-0a3a-4b07-94ae-3833928235c2" />
+*Figure 2: Feature Associations Matrix (all to all)*
+</div>
+
+<div align="center">
 <img width="600" height="547" alt="output" src="https://github.com/user-attachments/assets/9d10ac12-aa23-4729-a4d6-4c8ea85ec83a" />
+*Figure 3: Clustered dataset with PCA applied*
+</div>
+
 
 
 ---
